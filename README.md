@@ -61,7 +61,13 @@ Currently Learning:
 
 </p>
 
----
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yashhh-max/yashhh-max/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 
 ## 🚀 Featured Projects
 
