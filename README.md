@@ -40,10 +40,12 @@ Currently Learning:
 
 ## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashhh-max&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=yashhh-max&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashhh-max&layout=compact&theme=github_dark&hide_border=true"/>
----
+<img height="170"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yashhh-max&layout=compact&theme=github_dark&hide_border=true"/>
+
 
 ## 📈 Contribution Graph
 
