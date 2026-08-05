@@ -68,14 +68,30 @@ Currently Learning:
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🤖 **ValMentor AI** | AI-powered career and interview mentor |
-| 🎫 **AI Ticket Booking** | Smart ticket booking platform |
-| 🌐 **Portfolio Website** | Personal developer portfolio |
-| 🤖 **Strands Agent** | AI Agent using Strands SDK |
+<div align="center">
 
+<a href="https://github.com/yashhh-max/Strands-Agent---Build-Beyond-Limits-2.0">
+<img src="https://img.shields.io/badge/🤖-ValMentor_AI-181717?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_REPO">
+<img src="https://img.shields.io/badge/🌐-Portfolio-181717?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_TICKET_BOOKING_REPO">
+<img src="https://img.shields.io/badge/🎫-AI_Ticket_Booking-181717?style=for-the-badge"/>
+</a>
+
+</div>
 ---
+
+## 🌱 Currently Learning
+
+- AI Agents
+- Data Engineering
+- System Design
+- AWS Cloud
+
 
 ## 🌐 Connect With Me
 
