@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="./assets/portrait.png" width="320" alt="Yashwanth"/>
+
+</div>
+
+<div align="center">
+
 # YASHWANTH
 
 ### AI Engineer • Data Engineer • Full Stack Developer
