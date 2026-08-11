@@ -42,9 +42,9 @@ Currently Learning:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yashhh-max&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-lime-mu-20.vercel.app/api?username=yashhh-max&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yashhh-max&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-lime-mu-20.vercel.app/api/top-langs/?username=yashhh-max&layout=compact&theme=github_dark&hide_border=true"/>
 
 <br><br>
 
@@ -167,4 +167,3 @@ Smart ticket booking system
 </a>
 
 </p>
-
